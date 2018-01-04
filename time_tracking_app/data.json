@@ -9,9 +9,9 @@
     {
         "title": "Clear paper jam",
         "project": "Office Chores",
-        "elapsed": 1273998,
+        "elapsed": 87827095,
         "id": "a73c1d19-f32d-4aff-b470-cea4e792406a",
-        "runningSince": 1514959614709
+        "runningSince": 1515046169320
     },
     {
         "title": "Ponder origins of universe",
@@ -19,12 +19,5 @@
         "id": "2c43306e-5b44-4ff8-8753-33c35adbd06f",
         "elapsed": 11750,
         "runningSince": 1456225941911
-    },
-    {
-        "title": "hahaha",
-        "project": "saca",
-        "id": "46df0484-5ffe-4adf-8966-5bd7cc1eba72",
-        "elapsed": 34380,
-        "runningSince": null
     }
 ]
